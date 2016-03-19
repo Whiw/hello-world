@@ -1,3 +1,0 @@
-config VIDEO_VPP_DITHER_SPRD
-	tristate "SPRD VPP_DITHER driver"
-	default n

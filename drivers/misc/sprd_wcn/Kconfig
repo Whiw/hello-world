@@ -1,3 +1,0 @@
-config SPRD_WCN
-	tristate "SPRD connectivity  driver"
-	default n

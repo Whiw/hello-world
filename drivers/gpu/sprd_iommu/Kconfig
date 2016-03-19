@@ -1,5 +1,0 @@
-config SPRD_IOMMU
-	bool "SPRD IOMMU Module"
-	help
-	  Chose this option to enable the SPRD IOMMU.
-
